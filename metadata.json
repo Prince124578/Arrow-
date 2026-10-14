@@ -1,0 +1,6 @@
+{
+  "name": "Vector Exit",
+  "description": "Engaging arrow logic puzzle game. Tap arrows in clear corridors to free them and clear the board.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
